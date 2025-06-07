@@ -5,8 +5,8 @@
 ## Ongoing Projects
 
 ### 1. Genii  
-An open-source initiative to develop advanced EEG electrical source imaging (ESI) software integrated with AI, supporting neuroscience research and accessible brain analysis tools. More at [](https://github.com/genii-open).
+An open-source initiative to develop advanced EEG electrical source imaging (ESI) software integrated with AI, supporting neuroscience research and accessible brain analysis tools. More at [https://github.com/genii-open](https://github.com/genii-open).
 
 ### 2. dPickleball  
-A STEM-driven educational platform that uses AI, HCI, BCI and e-sports (pickleball) to promote active learning of technologies and innovation in Malaysian education. More at [](https://dpickleball.github.io/).
+A STEM-driven educational platform that uses AI, HCI, BCI and e-sports (pickleball) to promote active learning of technologies and innovation in Malaysian education. More at [https://dpickleball.github.io/](https://dpickleball.github.io/).
 
