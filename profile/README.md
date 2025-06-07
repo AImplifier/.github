@@ -1,5 +1,3 @@
-## AImplifier
-
 **AImplifier** is a non-profit organization committed to advancing cutting-edge AI research and development, with a focus on impactful projects and events that benefit humanity, education, and science. We strive to **amplify intelligence and its positive impact** on the world.
 
 ---
