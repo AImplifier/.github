@@ -1,4 +1,4 @@
-**AImplifier** is a non-profit research group committed to advancing cutting-edge AI research and development, with a focus on impactful projects and events that benefit humanity, education, and science. We strive to **amplify intelligence and its positive impact** on the world.
+**AImplifier** is a non-profit Research, Education, & Development (RED) Group committed to advancing cutting-edge AI, with a focus on impactful projects and events that benefit humanity, education, and science. We strive to **amplify intelligence and its positive impact** on the world.
 
 ## Ongoing Projects
 
